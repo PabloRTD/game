@@ -13,3 +13,21 @@
  *= require_tree .
  *= require_self
  */
+#Title{
+text-align:center;
+}
+#Logs{
+position: absolute;
+top: 20px;
+left: 0px;
+height: 700px;
+width: 200px;
+}
+#Buttons{
+position: relative;
+text-align: center;
+border: 1px solid black;
+width: 100px;
+margin-bottom: 5px;
+padding: 5px 10px;
+}
